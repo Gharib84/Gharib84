@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="position: fixed; z-index: -99; width: 100%; height: 100%">
+  <img src="./background-g69122972b_1920.jpg" alt="Fallback image" style="object-fit: cover; width: 100%; height: 100%">
   <video autoplay loop muted playsinline src="./egypt-70824.mp4" style="object-fit: cover; width: 100%; height: 100%"></video>
 </div>
