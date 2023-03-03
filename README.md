@@ -2,7 +2,7 @@
 
 https://user-images.githubusercontent.com/29811601/222742206-46dd03d2-c9fd-424d-ae70-c88346ad0f47.mp4
 
-<div style="margin-top: 10px">
+<div style="margin-top: 20px; margin-bottom: 20px;">
 
 - 🔭 I’m currently working on Travel progeressive Web Application
 - 🌱 I’m currently learning Mathematics and AI Concept
