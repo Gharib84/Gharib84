@@ -2,9 +2,9 @@
 
 https://user-images.githubusercontent.com/29811601/222742206-46dd03d2-c9fd-424d-ae70-c88346ad0f47.mp4
 
-<div style="margin-top: 20px; margin-bottom: 20px;">
+<div style="margin-top: 20px; margin-bottom: 20px;"></div>
 
-    - 🔭 I’m currently working on Travel progeressive Web Application
+  - 🔭 I’m currently working on Travel progeressive Web Application
     - 🌱 I’m currently learning Mathematics and AI Concept
     - 👯 I’m looking to collaborate on Opensource Projects 
     - 🤔 I’m looking for help with getting a job in Poland as a software developer
@@ -12,9 +12,6 @@ https://user-images.githubusercontent.com/29811601/222742206-46dd03d2-c9fd-424d-
     - 📫 How to reach me:[Mahmoud Gharib](https://github.com/Gharib84)
     - 😄 Pronouns: Eddie
     - ⚡ Fun fact: I've visited every continent except Antarctica
-
-</div>
-
 <!--
 **Gharib84/Gharib84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
