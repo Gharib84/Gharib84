@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/29811601/222742206-46dd03d2-c9fd-424d-
 <div style="margin-top: 20px; margin-bottom: 20px;">
 
 ## 
-- 🔭 I’m currently working on Travel progeressive Web Application
+- 🔭 I’m currently working on Travel Progressive Web Application
 - 🌱 I’m currently learning Mathematics and AI Concept
 - 👯 I’m looking to collaborate on Opensource Projects 
 - 🤔 I’m looking for help with getting a job in Poland as a software developer
