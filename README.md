@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/29811601/222742206-46dd03d2-c9fd-424d-
 - 🔭 I’m currently working on Travel Progressive Web Application
 - 🌱 I’m currently learning Mathematics and AI Concept
 - 👯 I’m looking to collaborate on Opensource Projects 
-- 🤔 I’m looking for help with getting a job in Poland as a software developer
+- 🤔 I'm looking to collaborate with others on a new projects or challenge.
 - 💬 Ask me about My experience with specific programming languages or technologies
 - 📫 How to reach me:[Mahmoud Gharib](https://github.com/Gharib84)
 - 😄 Pronouns: Eddie
