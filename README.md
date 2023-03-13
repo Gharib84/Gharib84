@@ -1,4 +1,4 @@
-# Mahmoud Gharib
+# :fountain_pen: Mahmoud Gharib
 I have completed my education in community colleges with a focus on computer science, and have taken advanced courses in mathematics at the high school level. This education has provided me with a solid foundation in computer science, programming languages and mathematical concepts that are essential for software development.
 
 I have expertise in various programming languages including TypeScript, JavaScript, PHP and SQL. I also have a basic understanding of Python, which I have used in some personal projects. My skills in these programming languages have been honed through various courses and personal projects, and I am confident that I can put them to good use in a professional environment.
