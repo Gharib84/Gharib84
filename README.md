@@ -47,11 +47,12 @@ I am also a fast learner and can adapt to new technologies quickly. I am eager t
 
 ## :blue_book: Performance
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Gharib84&show_icons=true&bg_color=00000000"/>
-<img align="left" width+"47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gharib84&hide_progress=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Gharib84&hide=XML&show_icons=true&bg_color=00000000"/>
+<img align="left" width+"47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gharib84&hide=XML,Rich%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8"/>
 
 
-
+  
+  
 <!--
 **Gharib84/Gharib84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
